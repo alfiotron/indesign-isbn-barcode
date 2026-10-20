@@ -1,0 +1,11 @@
+Suggested repository name
+indesign-isbn-barcode
+
+English description
+Generate native ISBN/EAN-13 barcodes in Adobe InDesign, with compound paths, custom fonts, exact dimensions and adjustable digit spacing.
+
+Descrizione italiana
+Genera barcode ISBN/EAN-13 vettoriali in Adobe InDesign, con tracciati composti, font personalizzabili, dimensioni effettive e distanza delle cifre regolabile.
+
+Suggested topics
+adobe-indesign, indesign-script, extendscript, jsx, barcode, ean13, isbn, publishing, prepress
